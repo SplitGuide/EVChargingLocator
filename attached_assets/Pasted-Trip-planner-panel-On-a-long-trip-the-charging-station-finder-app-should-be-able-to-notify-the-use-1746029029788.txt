@@ -1,0 +1,27 @@
+Trip planner panel
+On a long trip, the charging station finder app should be able to notify the user about the availability of the charging stations. The notifications should be based on the nearest charging station available and the battery level in the vehicle.
+Payment facility
+With this feature, the user would be able to pay digitally in advance from anywhere. In addition, the user would be able to track their expenses by charging on a regular basis easily.
+Add the station
+Through this feature, the user would be allowed to add the new EV charging station app that is not available. Thus, another user would also find it easier to find new charging stations without any hassle.
+Share the residential charger
+With these features, the user of the EV charging station finder app can lend a helping hand to other users and provide their personal residential chargers either for free or paid.
+Advanced features
+Along with the above-mentioned essential features, as an IT business owner, you need to include something extra to make your app a leader in its genre.
+Multiple payment options
+Multiple payment options will give your EV charging location finding app an extra edge and lure more customers to the app. Through multiple payment options, the user can pay through credit/debit card, UPI, different popular wallets, etc.
+GPS tracking
+As the name suggests, GPS tracking will allow users to find nearby charging stations easily. It is the same as in-app navigation.
+CRM integration
+CRM integration will assist you as a business owner to manage healthy relations between existing and new customers and keep your app relevant in the long run.
+Chatbot integration
+Integrating chatbots will add extra support to your users as they don’t have to wait for any of the executives to get their work done. The AI-enabled chatbots will be capable enough to solve all the common queries of the users in real time. Technology stack for EV charging station finder appTo build a robust EV charging station finding app, it is essential to have state-of-the-art technology stack for every function. This is because, in the app, modern technologies such as cloud services and the Internet of Things (IoT) must be included. Also, along with a competent tech stack, a business company must hire dedicated developers for the best results. Below is the full overview of the required technology stack: 
+Notifications: Push.io, Twilio
+To verify mobile number: Nexmo, Twilio
+Server: NGINX, Tomcat, Apache
+Database: MongoDB, MySQL, Redis, PostgreSQL
+Payment methods: Braintree and PayPal, Stripe, UPI
+Cloud services: Amazon Web Services (AWS), Microsoft Azure, Google Cloud
+Framework: Flutter, Laravel, jQuery
+Analytics: Hadoop, Spark, Flink, Kafka
+Find user location: Google Maps, Core Location Framework, Google Places API
